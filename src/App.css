@@ -1,5 +1,7 @@
 .App {
   text-align: center;
+  background-color: #9370F4;
+  font-family: Roboto;
 }
 
 .App-logo {
@@ -35,4 +37,93 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+h1 {
+  color: #000000;
+  background-color: #AEDAF3;
+  padding: 10px 0px;
+  font-size: 70px;
+}
+#navbar {
+  color: #000000;
+  background-color: #AEDAF3;
+  padding: 10px 0px;
+  margin: 0px 10px;
+  font-size: 70px;
+}
+
+p {
+  color: #000000;
+  font-size: 30px;
+  padding: 20px;
+}
+
+.p0 {
+  background-color: #764AF1;
+  margin: 0px 100px;
+  padding: 30px 40px;
+}
+.p1 {
+  padding: 10px 60px;
+}
+
+.odd {
+  color: #FEFEFE;
+  background-color: #764AF1;
+  margin: 0px;
+  text-align: left;
+  padding: 30px 40px;
+}
+.even {
+  color: #000000;
+  background-color: #9772FB;
+  margin: 0px 70px;
+  text-align: left;
+  padding: 30px 40px;
+}
+
+#home {
+  background-image: url('./images/Purple Cloud.gif');
+  background-size:cover;
+  min-height: 100vh;
+}
+
+#nav {
+  font-family: 'Roboto';
+  font-size: 40px;
+  color: #000000;
+  padding: 10px 0px;
+  background-color: #AEDAF3;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+a {
+  color: inherit;
+  text-decoration: inherit;
+}
+
+.head {
+  padding: 10px;
+}
+
+.present {
+  display:block;
+  flex-direction: row;
+}
+
+.linker {
+  background-color: #a6d6f1;
+  padding: 6px 20px;
+  border-radius: 7px;
+}
+.linker:hover {
+  background-color: #95cfef;
+  border-radius: 10px;
+}
+
+.logo {
+  height: 30%;
+  width: 30%;
 }
