@@ -1,7 +1,9 @@
 import React from 'react';
 import './App.css';
+import 'bootstrap/dist/css/bootstrap.min.css'
+import 'bootstrap/dist/js/bootstrap.bundle.min';
 import About from './components/About';
-import Rulesandreg from './components/Rulesandreg';
+import Rules from './components/Rules';
 import Home from './components/Home';
 
 function App() {
@@ -9,7 +11,7 @@ function App() {
     <div className="App">
       <Home />
       <About />
-      <Rulesandreg />
+      <Rules />
     </div>
   );
 }
