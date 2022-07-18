@@ -4,7 +4,6 @@
   font-family: Roboto;
 }
 
-
 .present {
   display:block;
   flex-direction: row;
@@ -60,6 +59,7 @@
   position: relative;
   font-size: 240px;
   padding: 0;
+  margin-left: 20px;
   line-height: 200px;
 }
 .slideshow li div p {
@@ -120,13 +120,6 @@
   100% { opacity: 0 }
 }
 
-@media screen and (max-width: 1140px) {
-  .slideshow li div h3 {font-size: 140px;}  
-}
-@media screen and (max-width: 600px) {
-  .slideshow li div h3 {font-size: 80px;}
-}
-
 
 #navbar {
   color: #000000;
@@ -134,6 +127,10 @@
   position: absolute;
   top: 0px;
   left: 0px;
+}
+
+.navbar img {
+  width: 24%;
 }
 
 .navbar-toggler-icon {
@@ -149,7 +146,6 @@
 }
 .linker:hover {
   background-color: #95cfef;
-  border-radius: 10px;
 }
 
 .row h1 {
@@ -167,6 +163,10 @@ p {
   padding: 20px;
 }
 
+#about div p {
+  border-radius: 8px;
+}
+
 .abtimg {
   position: relative;
 }
@@ -174,20 +174,17 @@ p {
   background-color: rgba(118,74,241,0.75);
   position: absolute;
   margin-bottom: 0px;
-  z-index: 1;
 }
 
 .odd {
   color: #000000;
   background-color: #764AF1;
-  /* margin: 0px 20px; */
   text-align: left;
   padding: 30px 40px;
   border-radius: 8px;
 }
 .even {
   color: #000000;
-  /* margin: 0px 20px; */
   text-align: left;
   padding: 30px 40px;
 }
@@ -201,4 +198,18 @@ a {
 .even-hi {
   color: #AEDAF3;
   font-weight: bold;
+}
+
+
+
+@media screen and (max-width: 1140px) {
+  .slideshow li div h3 {font-size: 140px;}  
+  p {font-size: 1.5rem !important;}
+  .p1 {position: relative; top: -35px}
+}
+@media screen and (max-width: 600px) {
+  .slideshow li div h3 {font-size: 80px;}
+  p {font-size: 1.2rem !important;}
+  .p1 {position: relative; top: -30px}
+  .navbar img {width: 40%;}
 }

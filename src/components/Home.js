@@ -1,5 +1,5 @@
 import React from "react";
-import slogo from "../images/23_white logo-01.png";
+import slogo from "../images/Shaastra23Black.png";
 
 const Home = () => {
     
@@ -56,14 +56,12 @@ const Home = () => {
                         <img
                             alt=""
                             src={slogo}
-                            width="18%"
-                            height="18%"
                             className="d-flex align-center"
                         />
                     </a>
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="navbar-toggler-icon"></span>
-                    </button>
+                    </button>                        
                     <div class="collapse navbar-collapse" id="navbarSupportedContent">
                         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                             <li class="nav-item linker">
