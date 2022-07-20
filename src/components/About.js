@@ -1,6 +1,8 @@
 import React from "react";
 import abtimg1 from "../images/events_3.png"
 import abtimg2 from "../images/events_1.png"
+import 'bootstrap/dist/css/bootstrap.min.css'
+import 'bootstrap/dist/js/bootstrap.bundle.min';
 
 const About = () => {
 
