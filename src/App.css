@@ -66,6 +66,8 @@
   text-align: left;
   position: absolute;
   color: inherit;
+  font-size: 2rem;
+  padding: 20px;
 }
 
 .slideshow li:nth-child(1) span {
@@ -157,13 +159,10 @@
 }
 
 
-p {
+#about div p {
   color: #000000;
   font-size: 2rem;
   padding: 20px;
-}
-
-#about div p {
   border-radius: 8px;
 }
 
@@ -176,21 +175,18 @@ p {
   margin-bottom: 0px;
 }
 
-.odd {
+#rules div ul p {
   color: #000000;
-  background-color: #764AF1;
+  font-size: 2rem;
   text-align: left;
   padding: 30px 40px;
+}
+.odd {
+  background-color: #764AF1;
   border-radius: 8px;
 }
-.even {
-  color: #000000;
-  text-align: left;
-  padding: 30px 40px;
-}
 
-
-a {
+.nav-link {
   color: inherit;
   text-decoration: inherit;
 }
@@ -204,12 +200,16 @@ a {
 
 @media screen and (max-width: 1140px) {
   .slideshow li div h3 {font-size: 140px;}  
-  p {font-size: 1.5rem !important;}
+  #about div p {font-size: 1.5rem !important;}
+  #rules div ul p {font-size: 1.5rem !important;}
+  .slideshow li div p {font-size: 1.5rem !important;}
   .p1 {position: relative; top: -35px}
 }
 @media screen and (max-width: 600px) {
   .slideshow li div h3 {font-size: 80px;}
-  p {font-size: 1.2rem !important;}
+  #about div p {font-size: 1.2rem !important;}
+  #rules div ul p {font-size: 1.2rem !important;}
+  .slideshow li div p {font-size: 1.2rem !important;}
   .p1 {position: relative; top: -30px}
   .navbar img {width: 40%;}
 }
