@@ -14,13 +14,10 @@ import Contact from "./components/contact";
 function App() {
   return (
     <div className="App">
-      <Home />
-      <About />
-      <Rules />
       <div>
 				<header>
 					<meta name="viewport" content="width=device-width, initial-scale=1" />
-					<title>Spark 2019 | Shaastra 2020</title>
+					<title>Spark 2022 | Shaastra 2023</title>
 					<link
 						rel="stylesheet"
 						href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/css/bootstrap.min.css"
@@ -28,6 +25,9 @@ function App() {
 					<link rel="stylesheet" href="/static/styles/styles.css" />
 					<script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js" />
 				</header>
+				<Home />
+				<About />
+				<Rules />
 				<Structure />
 				<Schedule />
 				<Register />

@@ -1,5 +1,9 @@
 import React from "react";
 import slogo from "../images/Shaastra23Black.png";
+import "../App.css"
+import "../style.css"
+import 'bootstrap/dist/css/bootstrap.min.css'
+import 'bootstrap/dist/js/bootstrap.bundle.min';
 
 const Home = () => {
     
