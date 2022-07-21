@@ -1,16 +1,21 @@
 .headingdiv{
-    background-color: #aedaf3;
-    width: 100% ;
+    background-color: #AEDAF3;
+    width: 99% ;
+    border-radius: 9px;
+    padding: 1vh;
+    margin: auto;
+    margin-bottom: 6vh;
     /* height: 156px; */
 }
 .Heading{
+    font-family: 'roboto';
     text-align: center;
     font-style: normal;
     font-weight: 400;
-    font-size: 70px;
+    font-size: 3rem;
     line-height: 82px;
-    padding-top: 30px;
-    padding-bottom: 30px;
+    padding-top: 4px;
+    padding-bottom: 4px;
     margin-bottom: 0px;
 }
 .info{
@@ -25,6 +30,13 @@
     line-height: 35px;
     text-align: center;
 
+}
+.info p a{
+    color: white;
+    text-decoration: none;
+}
+.info p a:hover{
+    color: rgb(185, 185, 185);
 }
 .content{
     width: 100%;
@@ -42,6 +54,7 @@
     clear: right;
     float: left !important;
     margin-top: 50px;
+    text-align: left;
     margin-left: 10%;
     border-radius: 16px;
     padding: 15px;
@@ -251,8 +264,10 @@
 }
 .footer{
     margin-top: 50px;
+    padding-top: 25px;
     /* width: 80%; */
     margin: auto;
+
     background-color: #764AF1;
     height: 200px;
 }
@@ -267,10 +282,22 @@
     margin-left: 20px;
     margin-right: 20px;
 }
+.icon a{
+    color: black;
+}
+.insta a:hover{
+    color: #F2C062;
+}
+.linkedin a:hover{
+    color: #0B65C2;
+}
+.yt a:hover{
+    color: red;
+}
 .footerdata{
     /* border: 2px solid black; */
-    height: 60%;
-    width: 60%;
+    
+    width: 65%;
     margin: auto;
 }
 .footerdata p{
@@ -487,7 +514,7 @@
     .footer{
         margin-top: 50px;
         margin-bottom: 100px;
-        width: 80%;
+        width: 100%;
         margin: auto;
         background-color: #764AF1;
         height: 200px;
@@ -501,7 +528,6 @@
     }
     .footerdata{
         /* border: 2px solid black; */
-        height: 60%;
         width: 80%;
         margin: auto;
     }
@@ -744,13 +770,12 @@
     .footer{
         margin-top: 50px;
         margin-bottom: 100px;
-        width: 80%;
+        width: 100%;
         margin: auto;
         background-color: #764AF1;
         height: 200px;
     }
     .footerdata{
-        height: 60%;
         width: 80%;
         margin: auto;
     }
@@ -765,8 +790,13 @@
     }
 }
 @media (max-width:500px){
+    .headingdiv{
+        width: 96vw;
+        margin-left: 2vw;
+        margin-right: 2vw;
+    }
     .Heading{
-        font-size: 30px;
+        font-size: 3rem;
         line-height: 52px;
         padding-top: 10px;
         padding-bottom: 10px;
@@ -994,7 +1024,7 @@
     .footer{
         margin-top: 50px;
         margin-bottom: 100px;
-        width: 80%;
+        width: 100%;
         margin: auto;
         background-color: #764AF1;
         height: 200px;
@@ -1003,7 +1033,6 @@
         height: 40%;
     }
     .footerdata{
-        height: 60%;
         width: 75%;
         margin: auto;
     }

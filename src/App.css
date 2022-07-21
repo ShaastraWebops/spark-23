@@ -1,7 +1,8 @@
 .App {
   text-align: center;
   background-color: #9370f4b4;
-  font-family: Roboto;
+  font-family: Roboto !important;
+  overflow-x: hidden;
 }
 
 .present {
@@ -68,6 +69,10 @@
   color: inherit;
   font-size: 2rem;
   padding: 20px;
+  background-color: #0000007b;
+  width: 90%;
+  border-radius: 5px;
+  margin: 5vw auto auto 2vw;
 }
 
 .slideshow li:nth-child(1) span {
@@ -90,6 +95,9 @@
   animation-delay: 16s;
 }
 
+.slideshow li:nth-child(2) p {
+  background-color: rgba(255, 255, 255, 0.463);
+}
 .slideshow li:nth-child(2) div {
   color: black;
   animation-delay: 4s;
@@ -152,10 +160,13 @@
 
 .row h1 {
   color: #000000;
-  background-color: #AEDAF3 !important;
+  background-color: #AEDAF3!important;
   padding: 10px 0px;
   font-size: 3rem;
   border-radius: 9px;
+}
+.row{
+  position: relative;
 }
 
 .col-lg-10, .col-lg-9
@@ -174,7 +185,7 @@
   opacity: 0.8;
 }
 .p1 {
-  background-color: rgba(118,74,241,0.75);
+  background-color:#9672fbb3;
   position: absolute;
   margin-bottom: 0px;
 }
@@ -186,7 +197,7 @@
   padding: 30px 40px;
 }
 .odd {
-  background-color: #764AF1;
+  background-color:#9772FB;
   border-radius: 8px;
 }
 
@@ -210,6 +221,12 @@
   .p1 {position: relative; top: -35px}
 }
 @media screen and (max-width: 600px) {
+  .abtimg{
+    display: none;
+  }
+  .col-lg-10, .col-lg-9{
+    position: relative !important;
+  }
   .slideshow li div h3 {font-size: 80px;}
   #about div p {font-size: 1.2rem !important;}
   #rules div ul p {font-size: 1.2rem !important;}

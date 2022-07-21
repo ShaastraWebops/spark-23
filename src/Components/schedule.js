@@ -2,7 +2,7 @@ import React from "react";
 
 const Schedule = () => {
   return (
-    <section>
+    <section id="schedule">
         <div className="headingdiv">
             <h1 className="Heading">SCHEDULE</h1>
         </div>
