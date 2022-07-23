@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/spark-23/static/css/main.76580f78.css",
-    "main.js": "/spark-23/static/js/main.19eb0791.js",
+    "main.css": "/spark-23/static/css/main.392b836b.css",
+    "main.js": "/spark-23/static/js/main.d5db830a.js",
     "static/js/787.bf6dfcb5.chunk.js": "/spark-23/static/js/787.bf6dfcb5.chunk.js",
     "static/media/events_3.png": "/spark-23/static/media/events_3.f2c66e1a196dddeded28.png",
     "static/media/events_1.png": "/spark-23/static/media/events_1.b3742895e6f56eab19c0.png",
@@ -15,12 +15,12 @@
     "static/media/events_6.png": "/spark-23/static/media/events_6.a5d185e0552d368a3972.png",
     "static/media/Shaastra23Black.png": "/spark-23/static/media/Shaastra23Black.db9b371b15a476e7d79a.png",
     "index.html": "/spark-23/index.html",
-    "main.76580f78.css.map": "/spark-23/static/css/main.76580f78.css.map",
-    "main.19eb0791.js.map": "/spark-23/static/js/main.19eb0791.js.map",
+    "main.392b836b.css.map": "/spark-23/static/css/main.392b836b.css.map",
+    "main.d5db830a.js.map": "/spark-23/static/js/main.d5db830a.js.map",
     "787.bf6dfcb5.chunk.js.map": "/spark-23/static/js/787.bf6dfcb5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.76580f78.css",
-    "static/js/main.19eb0791.js"
+    "static/css/main.392b836b.css",
+    "static/js/main.d5db830a.js"
   ]
 }
