@@ -20,7 +20,6 @@ const Structure = () => {
       <div className="content1 content">
         <div className="prelims contentinfo"> 
         <h1>Spark Prelims</h1>
-          <p>
           <ul>
               <li className="">
                 General Tech Quiz - science facts, logic, tech and how things
@@ -35,7 +34,6 @@ const Structure = () => {
                 Top 5 teams from each city qualify for Nationals Screening round
               </li>
             </ul>
-          </p>
         </div>
         <div className="prelimsimage contentimage"></div>
       </div>
@@ -43,7 +41,6 @@ const Structure = () => {
       <div className="content content2">
       <div className="screening contentinfo">
         <h1>Screening Round</h1>
-        <p>
         <ul>
               <li className="">
                 Questionnaire - 1 Page report on given topic (case study
@@ -57,7 +54,6 @@ const Structure = () => {
                 Top 25 go for the National finals - the Spark Junior Conference
               </li>
             </ul>
-        </p>
       </div>
       <div className="screeningimage contentimage"></div>
       </div>
@@ -65,7 +61,6 @@ const Structure = () => {
       <div className="content content3">
       <div className="final contentinfo">
         <h1>Spark Finals</h1>
-        <p>
         <ul>
               <li className="">
                 Presentation - based on the report submitted for screening round
@@ -75,8 +70,7 @@ const Structure = () => {
               <li className="">Sponsored trip to IIT Madras</li>
               <li className="">Top 3 teams as National Winners</li>
               <li className="">Date: TBA(During Shaastra)</li>
-            </ul>
-        </p>
+        </ul>
       </div>
       <div className="finalimage contentimage"></div>
       </div>
