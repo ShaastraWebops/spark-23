@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "./static/css/main.fe57fa82.css",
+    "main.js": "./static/js/main.bf1e210a.js",
+    "static/js/787.bf6dfcb5.chunk.js": "./static/js/787.bf6dfcb5.chunk.js",
+    "static/media/events_3.png": "./static/media/events_3.f2c66e1a196dddeded28.png",
+    "static/media/events_1.png": "./static/media/events_1.b3742895e6f56eab19c0.png",
+    "static/media/events_2.png": "./static/media/events_2.88380917c50b5770a899.png",
+    "static/media/aboutus_2.png": "./static/media/aboutus_2.19627bad2469b7299073.png",
+    "static/media/aboutus_3.png": "./static/media/aboutus_3.b60020af26a7d1951c97.png",
+    "static/media/exhb_7.png": "./static/media/exhb_7.8df9468419bf1da6278b.png",
+    "static/media/exhb_2.png": "./static/media/exhb_2.3b60baed8f3b09afc035.png",
+    "static/media/events_5.png": "./static/media/events_5.244a76df7c6c30ac3679.png",
+    "static/media/events_8.png": "./static/media/events_8.6168fcebd6007ec94225.png",
+    "static/media/events_6.png": "./static/media/events_6.a5d185e0552d368a3972.png",
+    "static/media/Shaastra23Black.png": "./static/media/Shaastra23Black.db9b371b15a476e7d79a.png",
+    "index.html": "./index.html",
+    "main.fe57fa82.css.map": "./static/css/main.fe57fa82.css.map",
+    "main.bf1e210a.js.map": "./static/js/main.bf1e210a.js.map",
+    "787.bf6dfcb5.chunk.js.map": "./static/js/787.bf6dfcb5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe57fa82.css",
+    "static/js/main.bf1e210a.js"
+  ]
+}
