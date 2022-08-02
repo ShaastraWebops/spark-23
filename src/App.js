@@ -2,13 +2,13 @@ import React from 'react';
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css'
 import 'bootstrap/dist/js/bootstrap.bundle.min';
-import About from './Components/About';
-import Rules from "./Components/Rules"
+import About from './Components/About.js';
+import Rules from "./Components/Rules.js"
 import Home from './Components/Home.js';
-import Structure from "./Components/structure";
-import Schedule from "./Components/schedule";
-import Register from "./Components/register";
-import Contact from "./Components/contact";
+import Structure from "./Components/structure.js";
+import Schedule from "./Components/schedule.js";
+import Register from "./Components/register.js";
+import Contact from "./Components/contact.js";
 
 
 function App() {
