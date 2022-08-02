@@ -3,7 +3,7 @@ import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css'
 import 'bootstrap/dist/js/bootstrap.bundle.min';
 import About from './Components/About';
-// import Rules from "./Components/Rules"
+import Rules from "../src/Components/Rules"
 import Home from './Components/Home';
 import Structure from "./Components/structure";
 import Schedule from "./Components/schedule";
@@ -27,7 +27,7 @@ function App() {
 				</header>
 				<Home />
 				<About />
-				{/* <Rules /> */}
+				<Rules />
 				<Structure />
 				<Schedule />
 				<Register />
