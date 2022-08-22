@@ -3,7 +3,7 @@ import React from "react";
 const Rules = () => {
 
     return (
-        <div id="rules" className="container-fluid mt-sm-5">
+        <div id="rules" className="container-fluid my-sm-5">
             <div className="row px-2">
                 <h1 className="col-12 mb-3 mb-sm-5 mt-3">Rules and Regulations</h1>
                 <ul className="px-0 px-sm-5">

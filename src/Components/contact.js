@@ -7,9 +7,9 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 const Contact = () => {
   return (
     <section id="contact">
-        <div className="headingdiv">
-            <h1 className="Heading">CONTACT</h1>
-        </div>
+        <div className="row px-2 px-m-3">
+                <h1 className="col-12 mb-5 mt-3">Contact</h1>
+            </div>
         <div className="info">
             <h3>Contact Us at</h3>
             <p><a href="mailto: outreach@shaastra.org">outreach@shaastra.org</a></p>

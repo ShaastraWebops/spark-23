@@ -158,9 +158,9 @@
   background-color: #95cfef;
 }
 
-.row h1 {
+.row > h1 {
   color: #000000;
-  background-color: #AEDAF3!important;
+  background-color: #aedaf39f!important;
   padding: 10px 0px;
   font-size: 3rem;
   border-radius: 9px;
@@ -169,10 +169,10 @@
   position: relative;
 }
 
-.col-lg-10, .col-lg-9
+/* .col-lg-10, .col-lg-9
 {
   position: absolute !important;
-}
+} */
 #about div p {
   color: #000000;
   font-size: 2rem;
@@ -181,12 +181,12 @@
 }
 
 .abtimg {
-  position: relative;
+  /* position: relative; */
   opacity: 0.8;
 }
 .p1 {
   background-color:#9672fbb3;
-  position: absolute;
+  /* position: relative; */
   margin-bottom: 0px;
 }
 
@@ -194,10 +194,9 @@
   color: #000000;
   font-size: 2rem;
   text-align: left;
-  padding: 30px 40px;
 }
 .odd {
-  background-color:#9772FB;
+  background-color: #9672fbb3;
   border-radius: 8px;
 }
 
@@ -207,7 +206,7 @@
 }
 
 .even-hi {
-  color: #AEDAF3;
+  color: #5d3eb2;
   font-weight: bold;
 }
 
@@ -268,4 +267,31 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+
+
+
+
+
+
+.list-p {
+  color: #000000;
+  font-size: 1.8rem; 
+}
+
+.list-h {
+  font-size: 3rem;
+}
+
+
+#structure div p {
+  color: #000000;
+  font-size: 2rem;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.ulist {
+  text-align: left;
 }
