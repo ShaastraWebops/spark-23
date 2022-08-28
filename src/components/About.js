@@ -8,7 +8,7 @@ const About = () => {
 
     return (
         <div id="about" className="container-fluid my-sm-5">
-            <div className="row mx-auto px-2 px-m-3">
+            <div className="row mx-auto px-2">
                 <h1 className="col-12 mb-5 mt-3">About</h1>
             </div>
             <div className="row px-4 align-items-center justify-content-center">
