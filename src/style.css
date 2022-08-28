@@ -33,7 +33,7 @@
     background-color:#9772FB;
     color: #000000;
     font-size: 2rem;
-    padding: 20px;
+    padding-bottom: 20px;
     border-radius: 8px;
 }
 .info p a{
@@ -262,7 +262,6 @@
 } */
 .info h3{
     padding-top: 40px;
-    margin-bottom: -15px;
     font-style: normal;
     font-weight: 900;
     font-size: 50px;
@@ -310,7 +309,7 @@
 .footerdata p{
     font-style: normal;
     font-weight: 400;
-    font-size: 25px;
+    font-size: 1.4rem;
     line-height: 35px;
     text-align: center;
     color: white;

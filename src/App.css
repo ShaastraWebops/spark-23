@@ -218,6 +218,11 @@
   #rules div ul p {font-size: 1.5rem !important;}
   .slideshow li div p {font-size: 1.5rem !important;}
   .p1 {position: relative; top: -35px}
+
+  .list-p {font-size: 1.5rem !important;}
+  .list-h {font-size: 2.8rem !important;}
+  #structure div p {font-size: 1.8rem !important;}
+
 }
 @media screen and (max-width: 600px) {
   .abtimg{
@@ -232,6 +237,11 @@
   .slideshow li div p {font-size: 1.2rem !important;}
   .p1 {position: relative; top: -30px}
   .navbar img {width: 40%;}
+
+  .list-p {font-size: 1.2rem !important;}
+  .list-h {font-size: 2.4rem !important;}
+  #structure div p {font-size: 1.5rem !important;}
+
 }
 
 .App-logo {
@@ -294,4 +304,8 @@
 
 .ulist {
   text-align: left;
+}
+
+.struct-content {
+  border-radius: 8px;
 }

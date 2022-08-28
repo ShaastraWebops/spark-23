@@ -11,8 +11,8 @@ const Structure = () => {
       <div className="row px-2 px-m-3">
         <h1 className="col-12 mb-5 mt-3">Structure</h1>
       </div>
-      <div className="row mx-auto px-4 align-items-center justify-content-center">
-        <p className="p1 col-12 py-2 py-sm-4 my-0 px-sm-4">
+      <div className="row  px-4 align-items-center justify-content-center">
+        <p className="p1 col-12 py-4 my-0 px-sm-4">
           SPARK is a three-tier mega event, with the first phase being the SPARK
           Junior Quiz, a pan-India quiz competition to be conducted in over 20
           cities, far and wide across the nation. With 4000+ participants, the
@@ -22,8 +22,8 @@ const Structure = () => {
           offer.
         </p>
       </div>
-      <div className="row mx-auto px-4 align-items-center justify-content-center my-4">
-        <div className="p1 col-12 col-lg-8 px-lg-4 py-3">
+      <div className="row  px-4 align-items-center justify-content-center my-4">
+        <div className="struct-content p1 col-12 col-lg-8 px-lg-4 py-3">
           <h1 className="list-h">Spark Prelims</h1>
           <ul className="ulist">
             <li className="list-p">
@@ -46,13 +46,13 @@ const Structure = () => {
           alt="About 1"
         />
       </div>
-      <div className="row mx-auto px-4 align-items-center">
+      <div className="row  px-4 align-items-center">
         <img
           className="abtimg col-12 col-md-8 offset-md-2 col-lg-4 offset-lg-0"
           src={strimg2}
           alt="About 2"
         />
-        <div className="p1 col-12 col-lg-8 px-4 py-3">
+        <div className="struct-content p1 col-12 col-lg-8 px-4 py-3">
           <h1 className="list-h">Screening Round</h1>
           <ul className="ulist">
             <li className="list-p">
@@ -69,8 +69,8 @@ const Structure = () => {
           </ul>
         </div>
       </div>
-      <div className="row mx-auto px-4 align-items-center justify-content-center my-4">
-        <div className="p1 col-12 col-lg-8 px-lg-4 py-3">
+      <div className="row  px-4 align-items-center justify-content-center my-4">
+        <div className="struct-content p1 col-12 col-lg-8 px-lg-4 py-3">
           <h1 className="list-h">Spark Finals</h1>
           <ul className="ulist">
             <li className="list-p">
