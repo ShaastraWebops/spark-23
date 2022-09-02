@@ -1,11 +1,13 @@
 import React from "react";
 
+import "../style.css";
+
 const Schedule = () => {
   return (
-    <section id="schedule">
-        <div className="headingdiv">
-            <h1 className="Heading">SCHEDULE</h1>
-        </div>
+    <div id="schedule" className="container-fluid my-sm-5">
+        <div className="row px-2 px-m-3">
+                <h1 className="col-12 mb-5 mt-3">Schedule</h1>
+            </div>
         <div className="schedule">
             <div className="schedulehead schedrow">
                 <div className="headvalue1">City</div>
@@ -151,7 +153,7 @@ const Schedule = () => {
                 <div className="rowvalue5">B.Sundar Balarka ,8333045402</div>
             </div>
         </div>
-    </section>
+    </div>
   );
 };
 
