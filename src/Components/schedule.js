@@ -45,7 +45,7 @@ const Schedule = () => {
                 <div className="vl vl1"></div>
                 <div className="rowvalue2">Kendriya Vidyalaya</div>
                 <div className="vl vl2"></div>
-                <div className="rowvalue3">A.A.I, Rangpuri, Delhi, New Delhi, Delhi 110037</div>
+                <div className="rowvalue3">NH 9, Near R.K College, Ketanakonda Grama Panchayati, Ibrahimpatnam (M), Vijayawada, Andhra Pradesh - 521456, India</div>
                 <div className="vl vl3"></div>
                 <div className="rowvalue4">20-07-2019</div>
                 <div className="vl vl4"></div>        
