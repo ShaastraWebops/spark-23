@@ -36,7 +36,7 @@ const Schedule = () => {
                 <div className="vl vl2"></div>
                 <div className="rowvalue3">NRL Petrol Pump</div>
                 <div className="vl vl3"></div>
-                <div className="rowvalue4">04-09-2022</div>
+                <div className="rowvalue4">18-09-2022</div>
                 <div className="vl vl4"></div>        
                 <div className="rowvalue5">B.Sundar Balarka ,8333045402</div>
             </div>
