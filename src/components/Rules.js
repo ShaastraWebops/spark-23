@@ -8,7 +8,7 @@ const Rules = () => {
                 <h1 className="col-12 mb-3 mb-sm-5 mt-3">Rules and Regulations</h1>
             </div>
             <div className="row">
-                <ul className="px-0 px-sm-4">
+                <ul className="px-2 px-sm-4">
                     <p className="odd col-12 py-2 px-4 col-sm-11 px-sm-5 py-sm-3 my-0"><li>
                         A team should consist of two members and any bonafide team from a school can take part by registering online. The team members need not be from the same school/branch. Cross teams are allowed, subject to the eligibility criterion that both participants are students of class 8 to 12.
                     </li></p>

@@ -63,7 +63,7 @@ const Home = () => {
                             className="d-flex align-center"
                         />
                     </a>
-                    <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <button className="navbar-toggler ml-auto" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                         <span className="navbar-toggler-icon"></span>
                     </button>                        
                     <div className="collapse navbar-collapse" id="navbarSupportedContent">
@@ -80,9 +80,9 @@ const Home = () => {
                             <li className="nav-item linker">
                                 <a className="nav-link" href="#schedule">Schedule</a>
                             </li>
-                            <li className="nav-item linker">
+                            {/* <li className="nav-item linker">
                                 <a className="nav-link" href="#register">Register</a>
-                            </li>
+                            </li> */}
                             <li className="nav-item linker">
                                 <a className="nav-link" href="#contact">Contact</a>
                             </li>

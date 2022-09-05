@@ -30,7 +30,7 @@ function App() {
 				<Rules />
 				<Structure />
 				<Schedule />
-				<Register />
+				{/* <Register /> */}
 				<Contact />
 	</div>
 
