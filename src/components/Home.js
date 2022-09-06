@@ -74,7 +74,7 @@ const Home = () => {
         </ul>
       </div>
       <nav className="navbar navbar-expand-lg" id="navbar">
-                <div className="container-fluid">
+                <div className="container-fluid d-flex justify-content-between">
                     <a class="navbar-brand" href="#">
                         <img src={slogo} alt="" height="75" class="d-inline-block align-text-top"></img>
                     </a>
@@ -83,8 +83,8 @@ const Home = () => {
                             <img src={hmb} height="30"></img>
                         </span>
                     </button>                        
-                    <div className="collapse navbar-collapse" id="navbarSupportedContent">
-                        <ul className="navbar-nav me-auto mb-2 mb-lg-0">
+                    <div className="collapse navbar-collapse justify-content-lg-end" id="navbarSupportedContent">
+                        <ul className="navbar-nav mb-2 mb-lg-0 mr-0">
                             <li className="nav-item linker">
                                 <a className="nav-link" href="#home">Home</a>
                             </li>
@@ -97,9 +97,9 @@ const Home = () => {
                             <li className="nav-item linker">
                                 <a className="nav-link" href="#schedule">Schedule</a>
                             </li>
-                            <li className="nav-item linker">
+                            {/* <li className="nav-item linker">
                                 <a className="nav-link" href="#register">Register</a>
-                            </li>
+                            </li> */}
                             <li className="nav-item linker">
                                 <a className="nav-link" href="#contact">Contact</a>
                             </li>
