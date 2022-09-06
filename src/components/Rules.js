@@ -4,8 +4,8 @@ const Rules = () => {
 
     return (
         <div id="rules" className="container-fluid my-sm-5">
-            <div className="row px-2">
-                <h1 className="col-12 mb-3 mb-sm-5 mt-3">Rules and Regulations</h1>
+            <div className="row px-2 px-m-3">
+                <h1 className="col-12 mb-4 mt-3">Rules and Regulations</h1>
             </div>
             <div className="row">
                 <ul className="px-2 px-sm-4">

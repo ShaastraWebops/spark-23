@@ -137,10 +137,7 @@
   position: absolute;
   top: 0px;
   left: 0px;
-}
-
-.navbar img {
-  width: 24%;
+  width: 100vw;
 }
 
 .navbar-toggler-icon {
@@ -222,6 +219,9 @@
   .list-p {font-size: 1.5rem !important;}
   .list-h {font-size: 2.8rem !important;}
   #structure div p {font-size: 1.8rem !important;}
+  .schedule-mobile .odd {
+    font-size: 1.8rem !important;
+  }
 
 }
 @media screen and (max-width: 768px) {
@@ -236,11 +236,13 @@
   #rules div ul p {font-size: 1.2rem !important;}
   .slideshow li div p {font-size: 1.2rem !important;}
   .p1 {position: relative;}
-  .navbar img {width: 40%;}
 
   .list-p {font-size: 1.2rem !important;}
   .list-h {font-size: 2.4rem !important;}
   #structure div p {font-size: 1.5rem !important;}
+  .schedule-mobile .odd {
+    font-size: 1.5rem !important;
+  }
 
 }
 
@@ -318,3 +320,6 @@
   .schedule-desktop {display: none !important;}
 }
 
+.schedule-mobile .odd {
+  font-size: 2rem;
+}
