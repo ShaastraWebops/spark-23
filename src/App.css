@@ -4,6 +4,9 @@
   font-family: Roboto !important;
   overflow-x: hidden;
 }
+*{
+  overflow-x: hidden;
+}
 
 .present {
   display:block;
