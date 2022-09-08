@@ -45,7 +45,7 @@ const Schedule = () => {
             <div className="type1 schedrow">
             <div className="rowvalue1">Vijayawada</div>
                 <div className="vl vl1"></div>
-                <div className="rowvalue2"></div>
+                <div className="rowvalue2"> </div>
                 <div className="vl vl2"></div>
                 <div className="rowvalue3"></div>
                 <div className="vl vl3"></div>
