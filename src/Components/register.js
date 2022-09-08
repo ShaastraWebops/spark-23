@@ -2,10 +2,10 @@ import React from "react";
 
 const Register = () => {
   return (
-    <section id="register">
-        <div className="headingdiv">
-            <h1 className="Heading">REGISTER</h1>
-        </div>
+    <div id="register" className="container-fluid my-sm-5">
+      <div className="row px-2 px-m-3">
+        <h1 className="col-12 mb-4 mt-3">Register</h1>
+      </div>
         <div className="info">
         <p>Registrations open for the following cities</p>
       </div>
@@ -19,7 +19,12 @@ const Register = () => {
             <div className="city4 city"></div>
         </div>
       </div>
-    </section>
+    </div>
+    // <div id="register" className="container-fluid my-sm-5">
+    //   <div className="row px-2">
+    //     <h1 className="col-12 mb-3 mb-sm-5 mt-3">Register</h1>
+    //   </div>
+    // </div>
   );
 };
 

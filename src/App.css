@@ -137,10 +137,7 @@
   position: absolute;
   top: 0px;
   left: 0px;
-}
-
-.navbar img {
-  width: 24%;
+  width: 100vw;
 }
 
 .navbar-toggler-icon {
@@ -217,17 +214,20 @@
   #about div p {font-size: 1.5rem !important;}
   #rules div ul p {font-size: 1.5rem !important;}
   .slideshow li div p {font-size: 1.5rem !important;}
-  .p1 {position: relative; top: -35px}
+  .p1 {position: relative;}
 
   .list-p {font-size: 1.5rem !important;}
   .list-h {font-size: 2.8rem !important;}
   #structure div p {font-size: 1.8rem !important;}
+  .schedule-mobile .odd {
+    font-size: 1.8rem !important;
+  }
 
 }
+@media screen and (max-width: 768px) {
+  .abtimg { display: none;}
+}
 @media screen and (max-width: 600px) {
-  .abtimg{
-    display: none;
-  }
   .col-lg-10, .col-lg-9{
     position: relative !important;
   }
@@ -235,12 +235,14 @@
   #about div p {font-size: 1.2rem !important;}
   #rules div ul p {font-size: 1.2rem !important;}
   .slideshow li div p {font-size: 1.2rem !important;}
-  .p1 {position: relative; top: -30px}
-  .navbar img {width: 40%;}
+  .p1 {position: relative;}
 
   .list-p {font-size: 1.2rem !important;}
   .list-h {font-size: 2.4rem !important;}
   #structure div p {font-size: 1.5rem !important;}
+  .schedule-mobile .odd {
+    font-size: 1.5rem !important;
+  }
 
 }
 
@@ -308,4 +310,16 @@
 
 .struct-content {
   border-radius: 8px;
+}
+
+.schedule-mobile {
+  display: none !important;
+}
+@media screen and (max-width: 768px) {
+  .schedule-mobile {display: block !important;}
+  .schedule-desktop {display: none !important;}
+}
+
+.schedule-mobile .odd {
+  font-size: 2rem;
 }
