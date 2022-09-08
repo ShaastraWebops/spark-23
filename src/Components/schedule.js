@@ -63,13 +63,13 @@ const Schedule = () => {
                 <div className="rowvalue5">B.Sundar Balarka ,8333045402</div>
             </div>
             <div className="type1 schedrow">
-            <div className="rowvalue1">Delhi</div>
+            <div className="rowvalue1">Coimbatore</div>
                 <div className="vl vl1"></div>
                 <div className="rowvalue2">Kendriya Vidyalaya</div>
                 <div className="vl vl2"></div>
-                <div className="rowvalue3">A.A.I, Rangpuri, Delhi, New Delhi, Delhi 110037</div>
+                <div className="rowvalue3">2VWX+975, 237, 238 Cosmo Village Avenue Vadavalli, Somayampalayam, Tamil Nadu 641108</div>
                 <div className="vl vl3"></div>
-                <div className="rowvalue4">20-07-2019</div>
+                <div className="rowvalue4">13-09-2022</div>
                 <div className="vl vl4"></div>        
                 <div className="rowvalue5">B.Sundar Balarka ,8333045402</div>                
             </div>
