@@ -3,9 +3,7 @@
   background-color: #9370f4b4;
   font-family: Roboto !important;
   overflow-x: hidden;
-}
-*{
-  overflow-x: hidden;
+  overflow-y: hidden;
 }
 
 .present {
