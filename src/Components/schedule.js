@@ -74,7 +74,29 @@ const Schedule = () => {
                 <div className="rowvalue5">B.Sundar Balarka ,8333045402</div>                
             </div>
             <div className="type2 schedrow">
-            <div className="rowvalue1">Delhi</div>
+            <div className="rowvalue1">Warangal</div>
+                <div className="vl vl1"></div>
+                <div className="rowvalue2">Government Markazi High School, Hanamkonda, Telangana</div>
+                <div className="vl vl2"></div>
+                <div className="rowvalue3">A.A.I, Rangpuri, Delhi, New Delhi, Delhi 110037</div>
+                <div className="vl vl3"></div>
+                <div className="rowvalue4">16-10-2022</div>
+                <div className="vl vl4"></div>        
+                <div className="rowvalue5">Jagan M J ,8078706562</div>
+            </div>
+            <div className="type1 schedrow">
+            <div className="rowvalue1">Kochi</div>
+                <div className="vl vl1"></div>
+                <div className="rowvalue2">Kendriya Vidyalaya</div>
+                <div className="vl vl2"></div>
+                <div className="rowvalue3">A.A.I, Rangpuri, Delhi, New Delhi, Delhi 110037</div>
+                <div className="vl vl3"></div>
+                <div className="rowvalue4">20-07-2019</div>
+                <div className="vl vl4"></div>        
+                <div className="rowvalue5">B.Sundar Balarka ,8333045402</div>                
+            </div>
+            <div className="type2 schedrow">
+            <div className="rowvalue1">Kolkata</div>
                 <div className="vl vl1"></div>
                 <div className="rowvalue2">Kendriya Vidyalaya</div>
                 <div className="vl vl2"></div>
@@ -96,7 +118,7 @@ const Schedule = () => {
                 <div className="rowvalue5">B.Sundar Balarka ,8333045402</div>                
             </div>
             <div className="type2 schedrow">
-            <div className="rowvalue1">Delhi</div>
+            <div className="rowvalue1">Vizag</div>
                 <div className="vl vl1"></div>
                 <div className="rowvalue2">Kendriya Vidyalaya</div>
                 <div className="vl vl2"></div>
@@ -107,7 +129,7 @@ const Schedule = () => {
                 <div className="rowvalue5">B.Sundar Balarka ,8333045402</div>
             </div>
             <div className="type1 schedrow">
-            <div className="rowvalue1">Delhi</div>
+            <div className="rowvalue1">Hyderabad</div>
                 <div className="vl vl1"></div>
                 <div className="rowvalue2">Kendriya Vidyalaya</div>
                 <div className="vl vl2"></div>
@@ -118,7 +140,7 @@ const Schedule = () => {
                 <div className="rowvalue5">B.Sundar Balarka ,8333045402</div>                
             </div>
             <div className="type2 schedrow">
-            <div className="rowvalue1">Delhi</div>
+            <div className="rowvalue1">Ahmedabad</div>
                 <div className="vl vl1"></div>
                 <div className="rowvalue2">Kendriya Vidyalaya</div>
                 <div className="vl vl2"></div>
@@ -129,7 +151,7 @@ const Schedule = () => {
                 <div className="rowvalue5">B.Sundar Balarka ,8333045402</div>
             </div>
             <div className="type1 schedrow">
-            <div className="rowvalue1">Delhi</div>
+            <div className="rowvalue1">Bangalore</div>
                 <div className="vl vl1"></div>
                 <div className="rowvalue2">Kendriya Vidyalaya</div>
                 <div className="vl vl2"></div>
@@ -137,10 +159,21 @@ const Schedule = () => {
                 <div className="vl vl3"></div>
                 <div className="rowvalue4">20-07-2019</div>
                 <div className="vl vl4"></div>        
-                <div className="rowvalue5">B.Sundar Balarka ,8333045402</div>                
+                <div className="rowvalue5">B.Sundar Balarka ,8333045402</div>
             </div>
             <div className="type2 schedrow">
-            <div className="rowvalue1">Delhi</div>
+            <div className="rowvalue1">Mumbai</div>
+                <div className="vl vl1"></div>
+                <div className="rowvalue2">Kendriya Vidyalaya</div>
+                <div className="vl vl2"></div>
+                <div className="rowvalue3">A.A.I, Rangpuri, Delhi, New Delhi, Delhi 110037</div>
+                <div className="vl vl3"></div>
+                <div className="rowvalue4">20-07-2019</div>
+                <div className="vl vl4"></div>        
+                <div className="rowvalue5">B.Sundar Balarka ,8333045402</div>
+            </div>
+            <div className="type1 schedrow">
+            <div className="rowvalue1">Chennai</div>
                 <div className="vl vl1"></div>
                 <div className="rowvalue2">Kendriya Vidyalaya</div>
                 <div className="vl vl2"></div>
