@@ -29,7 +29,7 @@ const Schedule = () => {
                 <div className="vl vl3"></div>
                 <div className="rowvalue4">05-09-2022</div>
                 <div className="vl vl4"></div>        
-                <div className="rowvalue5">B.Sundar Balarka ,8333045402</div>        
+                <div className="rowvalue5"></div>         
             </div>
             <div className="type2 schedrow">
             <div className="rowvalue1">Patna</div>
@@ -38,9 +38,9 @@ const Schedule = () => {
                 <div className="vl vl2"></div>
                 <div className="rowvalue3">NRL Petrol Pump</div>
                 <div className="vl vl3"></div>
-                <div className="rowvalue4">04-09-2022</div>
+                <div className="rowvalue4">18-09-2022</div>
                 <div className="vl vl4"></div>        
-                <div className="rowvalue5">B.Sundar Balarka ,8333045402</div>
+                <div className="rowvalue5"></div>   
             </div>
             <div className="type1 schedrow">
             <div className="rowvalue1">Vijayawada</div>
@@ -51,7 +51,7 @@ const Schedule = () => {
                 <div className="vl vl3"></div>
                 <div className="rowvalue4">11-09-2022</div>
                 <div className="vl vl4"></div>        
-                <div className="rowvalue5">B.Sundar Balarka ,8333045402</div>                
+                <div className="rowvalue5"></div>                 
             </div>
             <div className="type2 schedrow">
             <div className="rowvalue1">Nagpur</div>
@@ -62,9 +62,129 @@ const Schedule = () => {
                 <div className="vl vl3"></div>
                 <div className="rowvalue4">18-09-2022</div>
                 <div className="vl vl4"></div>        
-                <div className="rowvalue5">B.Sundar Balarka ,8333045402</div>
+                <div className="rowvalue5"></div>   
             </div>
-           
+            <div className="type1 schedrow">
+            <div className="rowvalue1">Coimbatore</div>
+                <div className="vl vl1"></div>
+                <div className="rowvalue2"></div>
+                <div className="vl vl2"></div>
+                <div className="rowvalue3">2VWX+975, 237, 238 Cosmo Village Avenue Vadavalli, Somayampalayam, Tamil Nadu 641108</div>
+                <div className="vl vl3"></div>
+                <div className="rowvalue4">13-09-2022</div>
+                <div className="vl vl4"></div>        
+                <div className="rowvalue5"></div>                
+            </div>
+            <div className="type2 schedrow">
+            <div className="rowvalue1">Warangal</div>
+                <div className="vl vl1"></div>
+                <div className="rowvalue2">Government Markazi High School, Hanamkonda, Telangana</div>
+                <div className="vl vl2"></div>
+                <div className="rowvalue3"></div>
+                <div className="vl vl3"></div>
+                <div className="rowvalue4">16-10-2022</div>
+                <div className="vl vl4"></div>        
+                <div className="rowvalue5">Jagan M J ,8078706562</div>
+            </div>
+            <div className="type1 schedrow">
+            <div className="rowvalue1">Kochi</div>
+                <div className="vl vl1"></div>
+                <div className="rowvalue2"></div>
+                <div className="vl vl2"></div>
+                <div className="rowvalue3"></div>
+                <div className="vl vl3"></div>
+                <div className="rowvalue4"></div>
+                <div className="vl vl4"></div>        
+                <div className="rowvalue5"></div>                
+            </div>
+            <div className="type2 schedrow">
+            <div className="rowvalue1">Kolkata</div>
+            <div className="vl vl1"></div>
+                <div className="rowvalue2"></div>
+                <div className="vl vl2"></div>
+                <div className="rowvalue3"></div>
+                <div className="vl vl3"></div>
+                <div className="rowvalue4"></div>
+                <div className="vl vl4"></div>        
+                <div className="rowvalue5"></div>   
+            </div>
+            <div className="type1 schedrow">
+            <div className="rowvalue1">Delhi</div>
+            <div className="vl vl1"></div>
+                <div className="rowvalue2"></div>
+                <div className="vl vl2"></div>
+                <div className="rowvalue3"></div>
+                <div className="vl vl3"></div>
+                <div className="rowvalue4"></div>
+                <div className="vl vl4"></div>        
+                <div className="rowvalue5"></div>               
+            </div>
+            <div className="type2 schedrow">
+            <div className="rowvalue1">Vizag</div>
+            <div className="vl vl1"></div>
+                <div className="rowvalue2"></div>
+                <div className="vl vl2"></div>
+                <div className="rowvalue3"></div>
+                <div className="vl vl3"></div>
+                <div className="rowvalue4"></div>
+                <div className="vl vl4"></div>        
+                <div className="rowvalue5"></div>   
+            </div>
+            <div className="type1 schedrow">
+            <div className="rowvalue1">Hyderabad</div>
+            <div className="vl vl1"></div>
+                <div className="rowvalue2"></div>
+                <div className="vl vl2"></div>
+                <div className="rowvalue3"></div>
+                <div className="vl vl3"></div>
+                <div className="rowvalue4"></div>
+                <div className="vl vl4"></div>        
+                <div className="rowvalue5"></div>               
+            </div>
+            <div className="type2 schedrow">
+            <div className="rowvalue1">Ahmedabad</div>
+            <div className="vl vl1"></div>
+                <div className="rowvalue2"></div>
+                <div className="vl vl2"></div>
+                <div className="rowvalue3"></div>
+                <div className="vl vl3"></div>
+                <div className="rowvalue4"></div>
+                <div className="vl vl4"></div>        
+                <div className="rowvalue5"></div>   
+            </div>
+            <div className="type1 schedrow">
+            <div className="rowvalue1">Bangalore</div>
+            <div className="vl vl1"></div>
+                <div className="rowvalue2"></div>
+                <div className="vl vl2"></div>
+                <div className="rowvalue3"></div>
+                <div className="vl vl3"></div>
+                <div className="rowvalue4"></div>
+                <div className="vl vl4"></div>        
+                <div className="rowvalue5"></div>   
+            </div>
+            <div className="type2 schedrow">
+            <div className="rowvalue1">Mumbai</div>
+            <div className="vl vl1"></div>
+                <div className="rowvalue2"></div>
+                <div className="vl vl2"></div>
+                <div className="rowvalue3"></div>
+                <div className="vl vl3"></div>
+                <div className="rowvalue4"></div>
+                <div className="vl vl4"></div>        
+                <div className="rowvalue5"></div>   
+            </div>
+            <div className="type1 schedrow">
+            <div className="rowvalue1">Chennai</div>
+            <div className="vl vl1"></div>
+                <div className="rowvalue2"></div>
+                <div className="vl vl2"></div>
+                <div className="rowvalue3"></div>
+                <div className="vl vl3"></div>
+                <div className="rowvalue4"></div>
+                <div className="vl vl4"></div>        
+                <div className="rowvalue5"></div>   
+            </div>
         </div>
         <div className="schedule-mobile row px-2 px-sm-4">
             <p className="odd col-12 py-2 px-4 px-sm-5 py-sm-3 my-2">
@@ -82,6 +202,42 @@ const Schedule = () => {
             </p>
             <p className="odd col-12 py-2 px-4 px-sm-5 py-sm-3 my-2">
                 <h3 className="list-h">Nagpur</h3><h3>18-09-2021</h3>
+            </p>
+            <p className="odd col-12 py-2 px-4 px-sm-5 py-sm-3 my-2">
+                <h3 className="list-h">Coimbatore</h3><h3>13-09-2021</h3>
+                2VWX+975, 237, 238 Cosmo Village Avenue Vadavalli, Somayampalayam, Tamil Nadu 641108<br />
+            </p>
+            <p className="odd col-12 py-2 px-4 px-sm-5 py-sm-3 my-2">
+                <h3 className="list-h">Warangal</h3><h3>16-09-2021</h3>
+                Government Markazi High School, Hanamkonda, Telangana<br />
+                Jagan M J <br /> 8078706562
+            </p>
+            <p className="odd col-12 py-2 px-4 px-sm-5 py-sm-3 my-2">
+                <h3 className="list-h">Kochi</h3><h3></h3>
+            </p>
+            <p className="odd col-12 py-2 px-4 px-sm-5 py-sm-3 my-2">
+                <h3 className="list-h">Kolkata</h3><h3></h3>
+            </p>
+            <p className="odd col-12 py-2 px-4 px-sm-5 py-sm-3 my-2">
+                <h3 className="list-h">Delhi</h3><h3></h3>
+            </p>
+            <p className="odd col-12 py-2 px-4 px-sm-5 py-sm-3 my-2">
+                <h3 className="list-h">Vizag</h3><h3></h3>
+            </p>
+            <p className="odd col-12 py-2 px-4 px-sm-5 py-sm-3 my-2">
+                <h3 className="list-h">Hyderabad</h3><h3></h3>
+            </p>
+            <p className="odd col-12 py-2 px-4 px-sm-5 py-sm-3 my-2">
+                <h3 className="list-h">Ahmedabad</h3><h3></h3>
+            </p>
+            <p className="odd col-12 py-2 px-4 px-sm-5 py-sm-3 my-2">
+                <h3 className="list-h">Bangalore</h3><h3></h3>
+            </p>
+            <p className="odd col-12 py-2 px-4 px-sm-5 py-sm-3 my-2">
+                <h3 className="list-h">Mumbai</h3><h3></h3>
+            </p>
+            <p className="odd col-12 py-2 px-4 px-sm-5 py-sm-3 my-2">
+                <h3 className="list-h">Chennai</h3><h3></h3>
             </p>
         </div>
     </div>
