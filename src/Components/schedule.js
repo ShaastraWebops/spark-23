@@ -23,9 +23,9 @@ const Schedule = () => {
             <div className="type1 schedrow">
                 <div className="rowvalue1">Trivandrum</div>
                 <div className="vl vl1"></div>
-                <div className="rowvalue2">Kendriya Vidyalaya</div>
+                <div className="rowvalue2">Chinmaya Vidyalaya</div>
                 <div className="vl vl2"></div>
-                <div className="rowvalue3">A.A.I, Rangpuri, Delhi, New Delhi, Delhi 110037</div>
+                <div className="rowvalue3">Kunnumpuram Thiruvananthapuram</div>
                 <div className="vl vl3"></div>
                 <div className="rowvalue4">05-09-2022</div>
                 <div className="vl vl4"></div>        
@@ -34,13 +34,13 @@ const Schedule = () => {
             <div className="type2 schedrow">
             <div className="rowvalue1">Patna</div>
                 <div className="vl vl1"></div>
-                <div className="rowvalue2">Patna Global School</div>
+                <div className="rowvalue2">Trinity global school</div>
                 <div className="vl vl2"></div>
-                <div className="rowvalue3">NRL Petrol Pump</div>
+                <div className="rowvalue3">Opposite of NRL Petrol pump, near zero mile patna.</div>
                 <div className="vl vl3"></div>
                 <div className="rowvalue4">18-09-2022</div>
                 <div className="vl vl4"></div>        
-                <div className="rowvalue5"></div>   
+                <div className="rowvalue5">6201449570</div>
             </div>
             <div className="type1 schedrow">
             <div className="rowvalue1">Vijayawada</div>
@@ -189,8 +189,8 @@ const Schedule = () => {
         <div className="schedule-mobile row px-2 px-sm-4">
             <p className="odd col-12 py-2 px-4 px-sm-5 py-sm-3 my-2">
                 <h3 className="list-h">Trivandrum</h3><h3>05-09-2021</h3>
-                Kendriya Vidyalaya<br />
-                A.A.I, Rangpuri, Delhi, New Delhi, Delhi 110037<br />
+                Chinmaya Vidyalaya<br />
+                Kunnumpuram Thiruvananthapuram<br />
             </p>
             <p className="odd col-12 py-2 px-4 px-sm-5 py-sm-3 my-2">
                 <h3 className="list-h">Patna</h3><h3>04-09-2021</h3>
